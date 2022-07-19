@@ -11,8 +11,8 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- CinematoBug is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- CinematoBug is a secret source project. 
+- Source - https://www.youtube.com/channel/UCBTsuBKjrtuEQbC9RtksLzw  
 
 <b>DEVS:</b>
 - <a href=https://t.me/Om56577>OM-1</a>"""
