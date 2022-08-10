@@ -410,10 +410,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('💠 ʀᴇQᴜᴇꜱᴛ ɢʀᴏᴜᴘ 💠', url='https://t.me/moviesrequestaccepted')
             ],[      
             InlineKeyboardButton('‼️ ʜᴇʟᴘ ‼️', callback_data='help'),
-            InlineKeyboardButton('🔍Search Movie', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🔍ꜱᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('🔞18+ Movies🔞', url='https://www.youtube.com/channel/UCBTsuBKjrtuEQbC9RtksLzw')
+            InlineKeyboardButton('🔞18+ ᴍᴏᴠɪᴇꜱ🔞', url='https://www.youtube.com/channel/UCBTsuBKjrtuEQbC9RtksLzw')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
