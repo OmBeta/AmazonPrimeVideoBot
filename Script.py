@@ -5,6 +5,11 @@ class script(object):
 ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʜᴇʟᴘ ꜰᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ."""
     ABOUT_TXT = """✯ ᴍʏ ɴᴀᴍᴇ: {}
 ✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Om56577>OM-1</a>
+✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
+✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3
+✯ ᴅᴀᴛᴀʙᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
+✯ ʙᴏᴛ-ꜱᴇʀᴠᴇʀ: ʜᴇʀᴏᴋᴜ
+✯ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: ᴠ1.0.1 [ʙᴇᴛᴀ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - CinematoBug is a secret source project. 
 - Source - https://www.youtube.com/channel/UCBTsuBKjrtuEQbC9RtksLzw  
